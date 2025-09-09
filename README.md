@@ -1,6 +1,3 @@
-Perfeito! Vou adicionar comentários detalhados em cada query, explicando o que cada comando faz dentro do contexto do banco Netflix. Mantendo o padrão Markdown para documentação/TCC:
-
-````markdown
 # 📚 Conteúdo da Aula – DML (Data Manipulation Language)
 
 ## 1. Introdução
@@ -180,5 +177,5 @@ Nesta aula, entendemos como utilizar a **DML (Data Manipulation Language)** para
 4. Construir consultas complexas que simulam cenários reais do sistema Netflix, como catálogo por gênero, perfis de usuários e ranking de filmes mais bem avaliados.
 
 > Com isso, o banco de dados deixa de ser apenas uma estrutura criada pela DDL e passa a ser **funcional e útil para o sistema**.
-````
+
 
